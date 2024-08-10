@@ -11,9 +11,10 @@
 
 - 📫 How to reach me **nirbhaysora@gmail.com or rautnirbhay2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tq53qfKYTpEf8kpEzjmhRKh6lSACS_p5/view?usp=drive_link](https://drive.google.com/file/d/1Tq53qfKYTpEf8kpEzjmhRKh6lSACS_p5/view?usp=drive_link)
+- 📄 Know me by my **Resume** : [https://drive.google.com/file/d/1Tq53qfKYTpEf8kpEzjmhRKh6lSACS_p5/view?usp=drive_link](https://drive.google.com/file/d/1Tq53qfKYTpEf8kpEzjmhRKh6lSACS_p5/view?usp=drive_link)
 
-- ⚡ Fun fact **I love AI, Electronics and Physics and feel free to connect for help, learning and Fun**
+- ⚡ Fun fact **I love to connect with new people so, feel free to connect for help, learning and Fun**
+- ⚡          **Physics is Love, always open to learn, talk or teach**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
