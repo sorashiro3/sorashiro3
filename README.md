@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nirbhaysora@gmail.com or rautnirbhay2004@gmail.com**
 
-- 📄 Know me by my **Resume** : [Resume](https://drive.google.com/file/d/19d-X-LNColh_t3GuyfoyfVAGhU1xu1ey/view?usp=drive_link)
+- 📄 Know me by my **Resume** : [Resume](https://drive.google.com/file/d/1fLLrTI532e7bLMYb2bpHlVFRfeHdIldr/view?usp=sharing)
 
 - ⚡ Fun fact **I love to connect with new people so, feel free to connect for help, learning and Fun**
 - ⚡          **Physics is Love, always open to learn, talk or teach**
