@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Raut</h1>
-<h3 align="center">An AI/ML, IoT, VLSI and Software developer from India</h3>
+<h3 align="center">A Learning Enthusiast from India</h3>
 
 <p>I am dedicated to lifelong learning and seize every opportunity to acquire new knowledge from diverse sources. While my interests span a wide range of subjects, I am especially captivated by Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Internet of Things (IoT), Data Structures and Algorithms (DSA), Data Science, VLSI, Electronics, Mathematics, and Physics.</p>
 
-- 🌱 I’m currently learning **Deep learning, Web dev, Electronics and Quantum Physics**
+- 🌱 I’m currently learning **Deep learning, Electronics and Quantitative Finance**
 
 - 👯 I’m looking to collaborate on **Any Ai/ML, IoT, VLSI, Robotics and software development related projects**
 
-- 💬 Ask me about **ML, Software dev, IoT and Electronics**
+- 💬 Ask me about **AI and VLSI**
 
 - 📫 How to reach me **nirbhaysora@gmail.com or rautnirbhay2004@gmail.com**
 
-- 📄 Know my Resume for CS : [Resume_CS](https://drive.google.com/file/d/1fLLrTI532e7bLMYb2bpHlVFRfeHdIldr/view?usp=sharing)  and for ECE : [Resume_ECE](https://drive.google.com/file/d/17LVfdLsCCeHhrKhXPvNWJdW_QxGzqpR3/view?usp=sharing)
+- 📄 Know my Resume for CS : [Resume_CS](https://drive.google.com/file/d/1YivYAy4-WfHnnGXlmWTd2y2AWttVNceL/view?usp=sharing) for ECE : [Resume_ECE](https://drive.google.com/file/d/1vn3BTl3gOja62z9YCYPbgsgjwdN4aXpR/view?usp=sharing) and for Quant : [Resume_Quant](https://drive.google.com/file/d/10fZ9-XDqR24cwnFOz6ydXlVdGgL6H-Pz/view?usp=sharing)
 
 - ⚡ Fun fact **I love to connect with new people so, feel free to connect for help, learning and Fun**
 - ⚡          **Physics is Love, always open to learn, talk or teach**
