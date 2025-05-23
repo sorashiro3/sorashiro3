@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nirbhay Raut</h1>
-<h3 align="center">A Learning Enthusiast from India</h3>
+<h3 align="center">A Learning Enthusiast</h3>
 
 <p>I am dedicated to lifelong learning and seize every opportunity to acquire new knowledge from diverse sources. While my interests span a wide range of subjects, I am especially captivated by Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Internet of Things (IoT), Data Structures and Algorithms (DSA), Data Science, VLSI, Electronics, Mathematics, and Physics.</p>
 
