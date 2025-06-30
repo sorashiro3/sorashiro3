@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **nirbhaysora@gmail.com or rautnirbhay2004@gmail.com**
 
-- 📄 Know my Resume for CS : [Resume_CS](https://drive.google.com/file/d/1YivYAy4-WfHnnGXlmWTd2y2AWttVNceL/view?usp=sharing) for ECE : [Resume_ECE](https://drive.google.com/file/d/1vn3BTl3gOja62z9YCYPbgsgjwdN4aXpR/view?usp=sharing) and for Quant : [Resume_Quant](https://drive.google.com/file/d/10fZ9-XDqR24cwnFOz6ydXlVdGgL6H-Pz/view?usp=sharing)
+- 📄 Know my Resume for CS : [Resume_CS](https://drive.google.com/file/d/1SYeq_Flnl9xDhcX7pxTn-CSVeOvhNblT/view?usp=sharing) for ECE : [Resume_ECE](https://drive.google.com/file/d/1QOdxj8yua_Towc_kDzHZh9xzE4_11Sy6/view?usp=sharing) and for Quant : [Resume_Quant](https://drive.google.com/file/d/1ZsWOagKJF4SgMlneFBHyzwxs-L6vRbHv/view?usp=sharing)
 
-- ⚡ Fun fact **I love to connect with new people so, feel free to connect for help, learning and Fun**
+- ⚡ Fun fact **I love to connect with new people, so feel free to connect for help, learning and Fun**
 - ⚡          **Physics is Love, always open to learn, talk or teach**
 
 <h3 align="left">Connect with me:</h3>
